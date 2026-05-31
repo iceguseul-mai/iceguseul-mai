@@ -1,6 +1,12 @@
-## About Me
+
 <ul>
-  <li> . </li>
-  
-<img src="https://raw.githubusercontent.com/iceguseul-mai/improved-space-enigma/65c8cff6125119ea4b523ccd9939e7fe6cf4bb04/solvedac-pumpsnacktv-v2%20(1).svg"/>
-<img src="https://github.com/iceguseul-mai/improved-space-enigma/blob/main/BOJ%20memory%20-%20pumpsnacktv.png?raw=true"/>
+<img src="https://pbs.twimg.com/profile_banners/1982738780558876673/1780065692/600x200">
+
+  <a href="https://x.com/rhythm_guseul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ <a href="https://codeforces.com/profile/gs_bingsu"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+ 
+ 💙 をとは 𝓑𝓘𝓖 𝓛𝓞𝓥𝓔..❤︎❤︎❤︎
+ 
+ 🎮 maimai DX, PLATiNA::LAB, SDVX, Trickcal Revive
+
+ 🛠️ Relearning ps, ranked #1 in COI 2025
