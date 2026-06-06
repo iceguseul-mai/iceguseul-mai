@@ -6,8 +6,10 @@
  <a href="https://codeforces.com/profile/gs_bingsu"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCxcF8T6UAGxtvu1pySOniXw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  
- 💙 をとは 𝓑𝓘𝓖 𝓛𝓞𝓥𝓔..❤︎❤︎❤︎
+ <img src="https://em-content.zobj.net/source/twitter/450/blue-heart_1f499.png" width="20" height="20" style="vertical-align:middle">  をとは 𝓑𝓘𝓖 𝓛𝓞𝓥𝓔..❤︎❤︎❤︎
  
  🎮 maimai DX, PLATiNA::LAB, SDVX, Trickcal Revive
 
  🛠️ Relearning ps, ranked #1 in COI 2025
+
+ <img src="https://em-content.zobj.net/source/twitter/450/musical-notes_1f3b6.png" width="20" height="20" style="vertical-align:middle"> playlist https://www.youtube.com/playlist?list=PL22aDDq7XCNjdoVfzk_QoR4NPitwrlTqv
