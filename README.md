@@ -12,4 +12,4 @@
 
  🛠️ Relearning ps, ranked #1 in COI 2025
 
- <img src="https://em-content.zobj.net/source/twitter/450/musical-notes_1f3b6.png" width="20" height="20" style="vertical-align:middle"> playlist https://www.youtube.com/playlist?list=PL22aDDq7XCNjdoVfzk_QoR4NPitwrlTqv
+ <img src="https://em-content.zobj.net/source/twitter/450/musical-notes_1f3b6.png" width="20" height="20" style="vertical-align:middle"> cravyxn - my flow
