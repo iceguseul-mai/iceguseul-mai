@@ -11,5 +11,3 @@
  🎮 maimai DX, PLATiNA::LAB, SDVX, Trickcal Revive
 
  🛠️ Relearning ps, ranked #1 in COI 2025
-
- 🎵 cravyxn - my flow💗
