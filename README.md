@@ -1,14 +1,13 @@
 
 <ul>
-<img src="https://github.com/iceguseul-mai/improved-space-enigma/blob/main/2026-09-1911.09.47online-video-cutter.com-ezgif.com-optimize.gif?raw=true"> 
-<p><sub style="color: gray;"><i> - SUNNY, Snail's House</i></sub></p>
+<img src="https://github.com/iceguseul-mai/improved-space-enigma/blob/main/videoframe_93454.png?raw=true"> 
 
 
   <a href="https://x.com/rhythm_guseul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://codeforces.com/profile/gs_bingsu"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCxcF8T6UAGxtvu1pySOniXw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  
- <img src="https://em-content.zobj.net/source/twitter/450/blue-heart_1f499.png" width="20" height="20" style="vertical-align:middle">  をとは 𝓑𝓘𝓖 𝓛𝓞𝓥𝓔..❤︎❤︎❤︎
+ 🧭🌊
  
  🎮 maimai DX, PLATiNA::LAB, SDVX, Trickcal Revive
 
